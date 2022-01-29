@@ -1,0 +1,22 @@
+.welcome {
+    color: rgb(255,127,80);
+}
+
+.newpost, .signout {
+    height: 40px;
+    border-radius: 20px;
+    border: none;
+    box-shadow: 2px 2px #888888;
+    background-color: white
+}
+
+#newPostcontent, #signoutcontent {
+    padding: 5px;
+    color: rgb(255,127,80);
+    background-color: white;
+}
+
+.bod {
+    color: rgb(255,127,80);
+}
+

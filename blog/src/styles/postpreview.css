@@ -1,0 +1,36 @@
+.read-more-link{
+    color: blueviolet;
+    text-decoration: underline;
+    letter-spacing: 1px;
+    cursor: pointer;
+  }
+  .extra-content{
+    color: cornflowerblue;
+    font-weight: 500;
+  }
+
+/* .img {
+    height: 200px !important;
+    width: 30px !important;
+} */
+.del, .edit {
+    padding: 5px;
+    color: rgb(255,127,80);
+    background-color: white;
+    
+}
+
+.delbtn, .editbtn {
+    height: 40px;
+    /* border-radius: 20px; */
+    border: none;
+    /* box-shadow: 2px 2px #888888; */
+    background-color: gray;
+}
+
+.imgicon {
+  padding: 5px;
+    color: rgb(255,127,80);
+    background-color: white;
+    
+}

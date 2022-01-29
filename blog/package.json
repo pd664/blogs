@@ -1,0 +1,66 @@
+{
+  "name": "blog",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@fortawesome/fontawesome": "^1.1.8",
+    "@fortawesome/fontawesome-free-regular": "^5.0.13",
+    "@fortawesome/fontawesome-free-solid": "^5.0.13",
+    "@fortawesome/fontawesome-svg-core": "^1.2.36",
+    "@fortawesome/free-brands-svg-icons": "^5.15.4",
+    "@fortawesome/free-solid-svg-icons": "^5.15.4",
+    "@fortawesome/react-fontawesome": "^0.1.16",
+    "@testing-library/jest-dom": "^5.16.1",
+    "@testing-library/react": "^12.1.2",
+    "@testing-library/user-event": "^13.5.0",
+    "atob": "^2.1.2",
+    "axios": "^0.25.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.1",
+    "bootstrap": "^5.0.0-alpha1",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^14.2.0",
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.6",
+    "font-awesome": "^4.7.0",
+    "jest-puppeteer": "^6.0.3",
+    "jodit-react": "^1.1.18",
+    "jsonwebtoken": "^8.5.1",
+    "mailslurp-client": "^15.4.3",
+    "mongodb": "^4.3.1",
+    "mongoose": "^6.1.8",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "react-paginate": "^8.1.0",
+    "react-router-dom": "^5.0.0",
+    "react-scripts": "5.0.0",
+    "react-test-renderer": "^17.0.2",
+    "read-more-react": "^1.0.10",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

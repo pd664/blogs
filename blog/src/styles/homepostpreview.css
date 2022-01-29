@@ -1,0 +1,19 @@
+/* .imagecont {
+    height: 100%;
+    width: 300px
+} */
+
+.image { 
+ vertical-align: center;
+ height: 180px;
+ width: 250px
+}
+
+/* .cont {
+    height: 210px
+} */
+
+.imgicon {
+    vertical-align: center;
+
+}

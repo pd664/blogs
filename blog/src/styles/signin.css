@@ -1,0 +1,15 @@
+#signin {
+    background-image: url(../images/hubble.jpg);
+    height: 900px;
+    overflow: hidden;
+}
+
+.signinbody {
+    background-color: white;
+    height: 100%;
+    border-radius: 10px ;
+}
+
+.input {
+    line-height: 28pxp;
+}
